@@ -1,0 +1,22 @@
+fruits= [
+    "Apple",
+    "Banana",
+    "Orange",
+    "Grapes",
+    "Mango",
+    "Strawberry",
+    "Pineapple",
+    "Watermelon",
+    "Cherry",
+    "Peach",
+    "Blueberry",
+    "Pear",
+    "Kiwi",
+    "Papaya",
+    "Pomegranate",
+    "Lemon",
+    "Lime",
+    "Guava",
+    "Coconut",
+    "Raspberry"
+]
