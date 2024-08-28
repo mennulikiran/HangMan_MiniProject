@@ -3,7 +3,7 @@ import word_list
 import HangMan_idol
 
 # Choose a random word from the fruits list
-chosen_word = random.choice(word_list.fruits)
+chosen_word = random.choice(word_list.fruits).lower()
 lives = 6
 
 # Initialize the display with underscores
